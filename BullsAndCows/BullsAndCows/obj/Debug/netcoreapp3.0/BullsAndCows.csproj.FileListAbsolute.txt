@@ -1,0 +1,11 @@
+C:\Users\Михаил\Desktop\C#\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.0\BullsAndCows.exe
+C:\Users\Михаил\Desktop\C#\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.0\BullsAndCows.deps.json
+C:\Users\Михаил\Desktop\C#\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.0\BullsAndCows.runtimeconfig.json
+C:\Users\Михаил\Desktop\C#\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.0\BullsAndCows.runtimeconfig.dev.json
+C:\Users\Михаил\Desktop\C#\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.0\BullsAndCows.dll
+C:\Users\Михаил\Desktop\C#\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.0\BullsAndCows.pdb
+C:\Users\Михаил\Desktop\C#\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.0\BullsAndCows.csprojAssemblyReference.cache
+C:\Users\Михаил\Desktop\C#\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.0\BullsAndCows.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\C#\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.0\BullsAndCows.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\C#\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.0\BullsAndCows.dll
+C:\Users\Михаил\Desktop\C#\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.0\BullsAndCows.pdb
